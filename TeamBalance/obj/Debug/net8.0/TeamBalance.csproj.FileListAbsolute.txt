@@ -1,0 +1,12 @@
+F:\шарп\TeamBalance\TeamBalance\obj\Debug\net8.0\TeamBalance.csproj.AssemblyReference.cache
+F:\шарп\TeamBalance\TeamBalance\obj\Debug\net8.0\TeamBalance.GeneratedMSBuildEditorConfig.editorconfig
+F:\шарп\TeamBalance\TeamBalance\obj\Debug\net8.0\TeamBalance.AssemblyInfoInputs.cache
+F:\шарп\TeamBalance\TeamBalance\obj\Debug\net8.0\TeamBalance.AssemblyInfo.cs
+F:\шарп\TeamBalance\TeamBalance\obj\Debug\net8.0\TeamBalance.csproj.CoreCompileInputs.cache
+F:\шарп\TeamBalance\TeamBalance\bin\Debug\net8.0\TeamBalance.deps.json
+F:\шарп\TeamBalance\TeamBalance\bin\Debug\net8.0\TeamBalance.dll
+F:\шарп\TeamBalance\TeamBalance\bin\Debug\net8.0\TeamBalance.pdb
+F:\шарп\TeamBalance\TeamBalance\obj\Debug\net8.0\TeamBalance.dll
+F:\шарп\TeamBalance\TeamBalance\obj\Debug\net8.0\refint\TeamBalance.dll
+F:\шарп\TeamBalance\TeamBalance\obj\Debug\net8.0\TeamBalance.pdb
+F:\шарп\TeamBalance\TeamBalance\obj\Debug\net8.0\ref\TeamBalance.dll

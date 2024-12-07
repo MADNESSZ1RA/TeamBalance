@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0448\u0430\u0440\u043F\\TeamBalance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6660E4C8-D4F4-4382-8D86-870405F5EF97}|TeamBalance\\TeamBalance.csproj|f:\\\u0448\u0430\u0440\u043F\\teambalance\\teambalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6660E4C8-D4F4-4382-8D86-870405F5EF97}|TeamBalance\\TeamBalance.csproj|solutionrelative:teambalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u0448\u0430\u0440\u043F\\TeamBalance\\TeamBalance\\Program.cs",
+              "RelativeDocumentMoniker": "TeamBalance\\Program.cs",
+              "ToolTip": "F:\\\u0448\u0430\u0440\u043F\\TeamBalance\\TeamBalance\\Program.cs",
+              "RelativeToolTip": "TeamBalance\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:56:20.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
